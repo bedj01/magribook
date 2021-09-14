@@ -1,12 +1,12 @@
 <?php
 // Language Name
-$name = 'English';
+$name = 'arabic';
 
 // Language Author
-$author = 'phpSocial';
+$author = 'magribook';
 
 // Language URL
-$url = 'https://phpsocial.com';
+$url = 'https://magribook.com';
 
 $LNG['lang_dir'] = 'ltr';
 

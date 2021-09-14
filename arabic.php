@@ -3,10 +3,10 @@
 $name = 'arabic';
 
 // Language Author
-$author = 'phpSocial';
+$author = 'magribook';
 
 // Language URL
-$url = 'http://phpsocial.com';
+$url = 'http://magribook.com';
 
 $LNG['lang_direction'] = 'ltr';
 
